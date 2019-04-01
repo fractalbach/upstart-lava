@@ -1,3 +1,4 @@
-Check out the Notes: [lava.pdf](lava.pdf)
 
-Afterwords, check out the data produced: [summary.txt](summary.txt)
+* Check out the notes: **[lava.pdf](lava.pdf)**
+* Source Code that was used: [lava.py](lava.py)
+* Summary of some data: [summary.txt](summary.txt)
